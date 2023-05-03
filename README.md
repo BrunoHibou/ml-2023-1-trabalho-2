@@ -1,7 +1,7 @@
 # Trabalho prático 2
 
-* Nome do Aluno: ________
-* Número de Matrícula: ________
+* Nome do Aluno: Bruno Cavalcanti Costa
+* Número de Matrícula: 2919215271
 * Disciplina: Aprendizado de Máquina
 * Semestre: 2023/1
 * Data: 19/04/2023
